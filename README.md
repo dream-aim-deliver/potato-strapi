@@ -1,3 +1,11 @@
+Potato test of Strapi headless CMS.
+
+This repository was setup by using the "CLI method" of [Strapi's official installation guide](https://docs.strapi.io/dev-docs/installation/cli).
+
+A dockerized development environment is provided. To set it up, copy the `.env.example` file to `.env` and leave the default values. Then simply run `docker compose up`. Strapi will be available at `localhost:1337`.
+This dockerized development environment was setup following [Strapi's official documentation](https://docs.strapi.io/dev-docs/installation/docker).
+
+
 # 🚀 Getting started with Strapi
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/dev-docs/cli) (CLI) which lets you scaffold and manage your project in seconds.
